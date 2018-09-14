@@ -60,7 +60,7 @@ module Stage
       @maps[0][0][2]=ZYX002::Map.new
       @maps[0][0][3]=ZYX003::Map.new
       @maps[0][0][4]=ZYX004::Map.new
-      @maps[0][1][0]=ZYX000::Map.new
+      @maps[0][1][0]=ZYX010::Map.new
       @maps[0][1][1]=ZYX011::Map.new
       @maps[0][1][2]=ZYX012::Map.new
       @maps[0][1][3]=ZYX013::Map.new
@@ -86,7 +86,7 @@ module Stage
       @maps[1][0][2]=ZYX102::Map.new
       @maps[1][0][3]=ZYX103::Map.new
       @maps[1][0][4]=ZYX104::Map.new
-      @maps[1][1][0]=ZYX100::Map.new
+      @maps[1][1][0]=ZYX110::Map.new
       @maps[1][1][1]=ZYX111::Map.new
       @maps[1][1][2]=ZYX112::Map.new
       @maps[1][1][3]=ZYX113::Map.new
